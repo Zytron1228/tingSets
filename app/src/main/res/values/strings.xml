@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">tingSets</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="misc_header">This Does Absolutely Nothing</string>
+    <string name="sync_header">Email</string>
+    <string name="the_header">System</string>
+
+    <!-- Messages Preferences -->
+    <string name="user_title">Username</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Email Will Smith periodically</string>
+    <string name="attachment_title">Send slap GIFs</string>
+    <string name="attachment_summary_on">Occasionally add GIF attachments showing various slaps in automatic emails to Will Smith when on
+    </string>
+    <string name="attachment_summary_off">Do not ever automatically add slap GIF attachments in emails to Will Smith when off</string>
+
+    <!-- System Preferences -->
+    <string name="the_title">Flashes</string>
+    <string name="than_title">Random Flash</string>
+    <string name="that_summary_on">Randomly flash the flashlight when on
+    </string>
+    <string name="that_summary_off">Do not flash the flashlight randomly when off</string>
+    <string name="then_her_title">Seizures Flash</string>
+    <string name="that_other_summary_on">Constantly flash the flashlight at extremely fast blinks when on
+    </string>
+    <string name="that_other_summary_off">Do not constantly flash the flashlight with extremely fast blinks when off</string>
+</resources>
